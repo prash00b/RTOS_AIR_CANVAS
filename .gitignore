@@ -1,0 +1,5 @@
+shapes/
+.ipynb_checkpoints/
+predicted_results/
+test/
+shape_dataset/
