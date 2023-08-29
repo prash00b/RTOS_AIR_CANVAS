@@ -26,11 +26,6 @@ It uses a number of open source projects to work properly:
 - [keras] A high-level neural networks API, running on top of TensorFlow.
 
 
-##Installation
-Install the dependencies
-```
-
-```
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/interactive-drawing.git`
