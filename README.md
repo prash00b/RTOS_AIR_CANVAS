@@ -28,7 +28,7 @@ It uses a number of open source projects to work properly:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/interactive-drawing.git`
+1. Clone the repository: `git clone git@github.com:prash00b/EPL-matchprediction.git`
 2. Navigate to the project directory:
 3. Install dependencies: `pip install numpy
 pip install opencv-python
